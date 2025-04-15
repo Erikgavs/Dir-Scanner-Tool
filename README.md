@@ -16,6 +16,6 @@ python3 dir_scanner.py
 ## dir_scanner.sh
 Para usarlo tendremos que otorgarle permisos de ejecucción y ya podremos usarlo
 ```bash
-chmod +x ./dir_scanner.sh
+chmod +x dir_scanner.sh
 ./dir_scanner.sh
 ```
